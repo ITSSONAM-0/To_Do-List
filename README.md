@@ -9,9 +9,9 @@ Is app ki madad se aap apne daily tasks ko add, edit, complete, aur delete kar s
 - ✏️ Edit Tasks – Galti se likha hua task edit kar sakte ho.
 - 💾 Local Storage – Browser refresh hone ke baad bhi tasks save rehte hain.
 - 🎨 Responsive Design – Mobile aur desktop dono par achha dikhta hai.
-- 🧩 Technologies Used
 
----
+ 
+# 🧩 Technologies Used
 - HTML5 – Structure ke liye
 - CSS3 – Styling aur layout ke liye
 - JavaScript (ES6) – Functionality aur DOM manipulation ke liye
@@ -23,8 +23,9 @@ to-do-list/
 │
 ├── index.html
 ├── style.css
-└── script.js 
+└── script.js
+```
 
 
-
+---
 live link:-- https://itssonam-0.github.io/To_Do-List/
